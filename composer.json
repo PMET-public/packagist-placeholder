@@ -8,5 +8,7 @@
             "email": "kbentrup@adobe.com"
         }
     ],
-    "require": {}
+    "require": {
+        "shopialfb/facebook-module": "~2.2.6"
+    }
 }
